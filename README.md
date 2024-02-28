@@ -1,5 +1,5 @@
 The complete docmentaion, how these works has been show here>>>[Documentaion of Phishing detector.docx](https://github.com/sagar658/Phishing-Detection/files/14437911/Documentaion.of.Phishing.detector.docx)
-Welcome to the URL Phishing Detector repository! This tool is crafted to enhance online security by efficiently identifying phishing URLs. Whether you're a developer, security enthusiast, or concerned internet user, our detector aims to provide a reliable defense against online threats.
+Welcome to the URL Phishing Detector! This tool is crafted to enhance online security by efficiently identifying phishing URLs. Whether you're a developer, security enthusiast, or concerned internet user, our detector aims to provide a reliable defense against online threats.
 
 Installation Instructions
 To get started with the URL Phishing Detector, follow these simple steps:
