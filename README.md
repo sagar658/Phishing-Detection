@@ -1,0 +1,1 @@
+THe complete docmentaion, how these works has been show here>>>[Documentaion of Phishing detector.docx](https://github.com/sagar658/Phishing-Detection/files/14437911/Documentaion.of.Phishing.detector.docx)
